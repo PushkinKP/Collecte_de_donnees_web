@@ -4,6 +4,18 @@ Ce projet avait comme objectif de me faire découvrir la collecte automatisée d
 
 ## Bibliotheques utilisés
 - [Dash](https://dash.plotly.com/), pour la création du site web en Python.
+```
+pip install Dash
+```
 - [Plotly Express](https://plotly.com/python/plotly-express/), pour les graphiques d'analyse des données de lAPI.
+```
+pip install plotly
+```
 - [Pandas](https://pandas.pydata.org/docs/index.html), pour le traitement et la collecte des données.
+```
+pip install pandas
+```
 - [Numpy](https://numpy.org/), pour le traitement des données.
+```
+pip install numpy
+```
